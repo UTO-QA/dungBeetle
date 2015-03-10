@@ -32,7 +32,7 @@ public class MainClass {
 		out.println("Website,Code");
 
 		// base website
-		String baseWebsite = "https://webapp4-qa.asu.edu/programs/t5/minorscertificates/undergrad/true";
+		String baseWebsite = "***link to the base website***";
 
 		// level 1
 		ArrayList<String> websiteArray = websiteCrawler(driver, baseWebsite);
